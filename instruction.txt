@@ -1,0 +1,11 @@
+step by step  : 
+
+Database : 
+1. create database named "mister_aladin_db".
+2. then, import "mister_aladin_lumen_app/mister_aladin_db.sql" on mister_aladin_db that you created before.
+
+
+Lumen Web App : 
+1. open the cmd/terminal, then point to the mister_aladin_lumen_app directory.
+2. run command " php -S localhost:8000 -t public "
+3. point ur browser to localhost:8000   
